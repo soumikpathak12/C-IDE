@@ -12,7 +12,7 @@ Now, enter the complete location of the *root folder* on your filesystem in the 
 
 ```bash
 #!CHANGE THIS TO YOUR ROOT FOLDER!
-root=/Users/udit/Class12File
+root=/Users/soumik/Class12File
 ```
 
 ##### Get started now by running these commands:
